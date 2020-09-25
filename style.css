@@ -653,7 +653,7 @@ a[data-lightbox]:hover img {
 h1,
 h2,
 h3,
-h4,
+h4
 h5,
 p,
 
@@ -665,8 +665,9 @@ a {
     color:brown!important;
     
 }
-h6{
+h4{
     color:whitesmoke;
+    font-size: 12px;
 }
 
 .container {
@@ -695,6 +696,7 @@ h6{
 
 p {
     font-size: 12px;
+    
            
 }
 
@@ -750,7 +752,7 @@ h1 {
 }
  h4 {
     color:#FFFFFF!important;
-    
+  
 
 }
 
