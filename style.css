@@ -731,7 +731,7 @@ p {
  }
      
  h2 {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.4em;
     
 }
@@ -754,11 +754,7 @@ small {
 h1 {
     color: #333333!important;
 }
- h4 {
-    color:#FFFFFF!important;
-  
 
-}
 
 .icons {
     margin-bottom: 14px;
