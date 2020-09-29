@@ -109,7 +109,7 @@ a:hover {
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
 }
-
+ 
 .d-bloc .icon-round,
 .d-bloc .icon-square,
 .d-bloc .icon-rounded,
@@ -137,8 +137,8 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(206, 168, 168, 0.6);
-    
+    color: white;
+        
 }
 
 .d-bloc .a-btn:hover,
@@ -182,6 +182,7 @@ a:hover {
 
 .d-bloc .panel .divider-h span {
     border-color: rgba(214, 186, 186, 0.1);
+    
 }
 
 .d-bloc .panel .a-btn {
@@ -237,7 +238,7 @@ a:hover {
 .l-bloc h6 a,
 .l-bloc p a {
     color: rgba(0, 0, 0, .6);
-}
+   }
 
 .d-bloc .panel .a-btn:hover,
 .l-bloc .a-btn:hover,
@@ -280,6 +281,7 @@ a:hover {
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
+    
 }
 
 .row.row-no-gutters > [class^="col-"],
@@ -356,7 +358,7 @@ a:hover {
 .navbar-toggle:hover {
     background: transparent!important;
 }
-
+ 
 .navbar-toggle .icon-bar {
     background-color: rgba(0, 0, 0, .5);
     width: 26px;
@@ -662,9 +664,10 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color:brown!important;
+    color:black!important
     
 }
+
 h4{
     color:whitesmoke;
     font-size: 12px;
@@ -696,16 +699,14 @@ h4{
 
 p {
     font-size: 12px;
-    
-           
+            
 }
 
 
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
-    
-    
+     
 }
 
 .h1 {
@@ -722,14 +723,14 @@ p {
     font-weight: 700;
 }
 
- .social {
+ .social  {
     max-width: 400px;
     margin: auto auto auto auto;
-    
+ 
+            
  }
      
- 
-h2 {
+ h2 {
     font-size: 22px;
     line-height: 1.4em;
     
@@ -739,9 +740,11 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: white;
 }
-
+small {
+    font-size:15px;
+}
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
@@ -801,7 +804,7 @@ h1 {
 
 .bgc-dark-slate-blue {
     background-color: #364577;
-    
+        
 }
 
 .bgc-atomic-tangerine {
@@ -848,7 +851,10 @@ h1 {
     border-color: #364577!important;
     
 }
-
+span p {
+    font-size:15;
+    color: white;
+}
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
 }
